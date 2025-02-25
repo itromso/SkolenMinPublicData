@@ -1,0 +1,1074 @@
+{
+  "1": {
+    "Stemmekretsnavn": "Sentrum",
+    "Farge": "#ff0000",
+    "TotaleStemmer": 4082,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.236648702
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.178833905
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.096031357
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.013718765
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.015188633
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.081822636
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.044341009
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.172954434
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.091131798
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.003184713
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.035276825
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.006124449
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.003429691
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.00955414
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.011758942
+      }
+    ]
+  },
+  "2": {
+    "Stemmekretsnavn": "Bjerkaker",
+    "Farge": "#ff0000",
+    "TotaleStemmer": 2564,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.264040562
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.158346334
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.056942278
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.014820593
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.018720749
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.055382215
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.04524181
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.204368175
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.100624025
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.005070203
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.036661466
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.005460218
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.005070203
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.014820593
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.014430577
+      }
+    ]
+  },
+  "4": {
+    "Stemmekretsnavn": "Mortensnes",
+    "Farge": "#ff0000",
+    "TotaleStemmer": 1895,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.289709763
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.138258575
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.045382586
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.022691293
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.019525066
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.053825858
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.033245383
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.184168865
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.114511873
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.002638522
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.041688654
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.009498681
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.002638522
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.019525066
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.022691293
+      }
+    ]
+  },
+  "6": {
+    "Stemmekretsnavn": "Stakkevollan",
+    "Farge": "#ff0000",
+    "TotaleStemmer": 1119,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.230563003
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.144772118
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.070598749
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.030384272
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.032171582
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.048257373
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.034852547
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.120643432
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.150134048
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.00357462
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.051831993
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.00536193
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.004468275
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.034852547
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.037533512
+      }
+    ]
+  },
+  "7": {
+    "Stemmekretsnavn": "Hamna",
+    "Farge": "#a600aa",
+    "TotaleStemmer": 1387,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.275414564
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.127613554
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.031723143
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.017303533
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.014419611
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.037490988
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.030281182
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.166546503
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.149963951
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.000720981
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.076423937
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.007930786
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.003604903
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.025955299
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.034607066
+      }
+    ]
+  },
+  "9": {
+    "Stemmekretsnavn": "Kaldfjord",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 1767,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.154499151
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.091114884
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.030560272
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.015846067
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.036785512
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.043576684
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.019241653
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.213921902
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.242218449
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.002263724
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.065647991
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.010186757
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.005093379
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.046406338
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.022637238
+      }
+    ]
+  },
+  "10": {
+    "Stemmekretsnavn": "Tromsdalen",
+    "Farge": "#a600aa",
+    "TotaleStemmer": 2152,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.270446097
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.103624535
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.046003717
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.020446097
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.017193309
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.028345725
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.027881041
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.20027881
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.180297398
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.001394052
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.057156134
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.002788104
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.003717472
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.016728625
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.023698885
+      }
+    ]
+  },
+  "12": {
+    "Stemmekretsnavn": "Kroken",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 1745,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.236676218
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.090544413
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.04469914
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.027507163
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.010888252
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.021203438
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.016618911
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.173638968
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.22234957
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.00286533
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.073352436
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.006876791
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.004584527
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.03495702
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.033237822
+      }
+    ]
+  },
+  "15": {
+    "Stemmekretsnavn": "Reinen",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 1334,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.248125937
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.083958021
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.041229385
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.035232384
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.014992504
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.029985007
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.017991004
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.211394303
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.207646177
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.003748126
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.068215892
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.005247376
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.002248876
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.017241379
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.012743628
+      }
+    ]
+  },
+  "18": {
+    "Stemmekretsnavn": "Lakselvbukt",
+    "Farge": "#00ff00",
+    "TotaleStemmer": 165,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.115151515
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.084848485
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.03030303
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.103030303
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.036363636
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.036363636
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.006060606
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.072727273
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.181818182
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.006060606
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.03030303
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.006060606
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.266666667
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.024242424
+      }
+    ]
+  },
+  "19": {
+    "Stemmekretsnavn": "Ramfjord",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 500,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.138
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.036
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.024
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.038
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.048
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.022
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.008
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.094
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.378
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.012
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.086
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.004
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.012
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.062
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.038
+      }
+    ]
+  },
+  "21": {
+    "Stemmekretsnavn": "Malangshalvøya",
+    "Farge": "#00ff00",
+    "TotaleStemmer": 125,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.272
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.056
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.032
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.04
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.016
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.016
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.016
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.104
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.208
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.008
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.064
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.144
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.024
+      }
+    ]
+  },
+  "25": {
+    "Stemmekretsnavn": "Sommarøy",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 239,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.087866109
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.029288703
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.037656904
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.025104603
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.033472803
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.033472803
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.008368201
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.251046025
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.280334728
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.087866109
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.008368201
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.083682008
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.033472803
+      }
+    ]
+  },
+  "26": {
+    "Stemmekretsnavn": "Kattfjord",
+    "Farge": "#0000ff",
+    "TotaleStemmer": 92,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.043478261
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.032608696
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.108695652
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.054347826
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.010869565
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.054347826
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.02173913
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.195652174
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.239130435
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.02173913
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.097826087
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.010869565
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.097826087
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.010869565
+      }
+    ]
+  },
+  "33": {
+    "Stemmekretsnavn": "Ringvassøy",
+    "Farge": "#00ff00",
+    "TotaleStemmer": 84,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.023809524
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.035714286
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.023809524
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.035714286
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.011904762
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.05952381
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.130952381
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.011904762
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.047619048
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.488095238
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.130952381
+      }
+    ]
+  },
+  "35": {
+    "Stemmekretsnavn": "Kvaløysletta og Vengsøy",
+    "Farge": "#a600aa",
+    "TotaleStemmer": 2021,
+    "PartiStemmer": [
+      {
+        "Partinavn": "Arbeiderpartiet",
+        "Andel stemmer": 0.241464621
+      },
+      {
+        "Partinavn": "SV - Sosialistisk Venstreparti",
+        "Andel stemmer": 0.094012865
+      },
+      {
+        "Partinavn": "Rødt",
+        "Andel stemmer": 0.034141514
+      },
+      {
+        "Partinavn": "Senterpartiet",
+        "Andel stemmer": 0.023255814
+      },
+      {
+        "Partinavn": "Kristelig Folkeparti",
+        "Andel stemmer": 0.023255814
+      },
+      {
+        "Partinavn": "Miljøpartiet De Grønne",
+        "Andel stemmer": 0.047006432
+      },
+      {
+        "Partinavn": "Venstre",
+        "Andel stemmer": 0.030677882
+      },
+      {
+        "Partinavn": "Høyre",
+        "Andel stemmer": 0.188520534
+      },
+      {
+        "Partinavn": "Fremskrittspartiet",
+        "Andel stemmer": 0.169717961
+      },
+      {
+        "Partinavn": "Norgesdemokratene",
+        "Andel stemmer": 0.002968827
+      },
+      {
+        "Partinavn": "Industri- og Næringspartiet",
+        "Andel stemmer": 0.059376546
+      },
+      {
+        "Partinavn": "Konservativt",
+        "Andel stemmer": 0.005937655
+      },
+      {
+        "Partinavn": "Liberalistene",
+        "Andel stemmer": 0.001979218
+      },
+      {
+        "Partinavn": "By- og Landlista",
+        "Andel stemmer": 0.054923305
+      },
+      {
+        "Partinavn": "NEI TIL BOMPENGER I TROMSØ",
+        "Andel stemmer": 0.022761009
+      }
+    ]
+  }
+}

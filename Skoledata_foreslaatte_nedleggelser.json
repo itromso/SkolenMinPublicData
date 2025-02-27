@@ -1,0 +1,185 @@
+[
+  {
+    "previousSchool": "Lunheim",
+    "prevLon": 19.040693,
+    "prevLat": 69.671357,
+    "newSchools": [
+      {
+        "newSchool": "Krokelvdalen",
+        "newLon": 19.074046,
+        "newLat": 69.681269,
+        "grades": "1.-7. trinn"
+      },
+      {
+        "newSchool": "Tromsdalen",
+        "newLon": 18.994801,
+        "newLat": 69.647621,
+        "grades": "1.-7. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 380,
+    "previousSchoolStudents2023": "289 (76%)",
+    "previousSchoolStudents2030": "270 (71%)",
+    "previousSchoolStudents2040": "293 (77%)",
+    "previousSchoolStudents2050": "283 (74%)",
+    "img_url": "https://vcdn.polarismedia.no/2c8b46cb-46f9-445a-a412-88e2ef544953"
+  },
+  {
+    "previousSchool": "Trondjord",
+    "prevLon": 18.8659146,
+    "prevLat": 69.8403779,
+    "newSchools": [
+      {
+        "newSchool": "Kvaløysletta",
+        "newLon": 18.880379,
+        "newLat": 69.6965968,
+        "grades": "1.-10. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 80,
+    "previousSchoolStudents2023": "29",
+    "previousSchoolStudents2030": "35",
+    "previousSchoolStudents2040": "Ingen data",
+    "previousSchoolStudents2050": "Ingen data",
+    "img_url": "https://tromso.kommune.no/sites/default/files/2021-06/Tronjord-skole.jpg"
+  },
+  {
+    "previousSchool": "Sandnessund",
+    "prevLon": 18.8789759,
+    "prevLat": 69.6970633,
+    "newSchools": [
+      {
+        "newSchool": "Kvaløysletta",
+        "newLon": 18.880379,
+        "newLat": 69.6965968,
+        "grades": "1.-10. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 224,
+    "previousSchoolStudents2023": "118 (53%)",
+    "previousSchoolStudents2030": "89 (40%)",
+    "previousSchoolStudents2040": "115 (51%)",
+    "previousSchoolStudents2050": "179 (80%)",
+    "img_url": "https://tromso.kommune.no/sites/default/files/2021-05/Sandnessund-skole-sommer.jpg"
+  },
+  {
+    "previousSchool": "Slettaelva",
+    "prevLon": 18.8941901,
+    "prevLat": 69.7029748,
+    "newSchools": [
+      {
+        "newSchool": "Kvaløysletta",
+        "newLon": 18.880379,
+        "newLat": 69.6965968,
+        "grades": "1.-10. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 310,
+    "previousSchoolStudents2023": "202 (65%)",
+    "previousSchoolStudents2030": "146 (47%)",
+    "previousSchoolStudents2040": "156 (50%)",
+    "previousSchoolStudents2050": "162 (52%)",
+    "img_url": "https://tromso.kommune.no/sites/default/files/2021-05/Slettaelva-skole-sommer.jpg"
+  },
+  {
+    "previousSchool": "Ersfjordbotn",
+    "prevLon": 18.6193295,
+    "prevLat": 69.6945794,
+    "newSchools": [
+      {
+        "newSchool": "Storelva",
+        "newLon": 18.7973517,
+        "newLat": 69.6855575,
+        "grades": "1.-10."
+      }
+    ],
+    "previousSchoolCapacity": "Ingen data",
+    "previousSchoolStudents2023": "38",
+    "previousSchoolStudents2030": "44",
+    "previousSchoolStudents2040": "Ingen data",
+    "previousSchoolStudents2050": "Ingen data",
+    "img_url": "https://tromso.kommune.no/sites/default/files/styles/mobile_x1_420px_/public/2021-05/Ersfjordbotn-skole-sommer_1.jpg.webp?itok=AYCZKp2A"
+  },
+  {
+    "previousSchool": "Hamna",
+    "prevLon": 18.9779508,
+    "prevLat": 69.7021412,
+    "newSchools": [
+      {
+        "newSchool": "Solneset",
+        "newLon": 18.9549967,
+        "newLat": 69.6960029,
+        "grades": "1.-4. trinn"
+      },
+      {
+        "newSchool": "Langnes",
+        "newLon": 18.9399347,
+        "newLat": 69.681513,
+        "grades": "5.-7. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 380,
+    "previousSchoolStudents2023": "192 (51%)",
+    "previousSchoolStudents2030": "190 (50%)",
+    "previousSchoolStudents2040": "192 (51%)",
+    "previousSchoolStudents2050": "186 (49%)",
+    "img_url": "https://tromso.kommune.no/sites/default/files/2021-05/Hamna-skole-sommer.jpg"
+  },
+  {
+    "previousSchool": "Solneset",
+    "prevLon": 18.9549967,
+    "prevLat": 69.6960029,
+    "newSchools": [
+      {
+        "newSchool": "Langnes",
+        "newLon": 18.9399347,
+        "newLat": 69.681513,
+        "grades": "5.-7. trinn"
+      }
+    ],
+    "previousSchoolCapacity": 350,
+    "previousSchoolStudents2023": "184 (53%)",
+    "previousSchoolStudents2030": "191 (55%)",
+    "previousSchoolStudents2040": "207 (59%)",
+    "previousSchoolStudents2050": "200 (57%)",
+    "img_url": "https://tromso.kommune.no/sites/default/files/2021-05/Solneset-skole-sommer.jpg"
+  },
+  {
+    "previousSchool": "Vikran",
+    "prevLon": 18.7797667,
+    "prevLat": 69.5427363,
+    "newSchools": [
+      {
+        "newSchool": "Straumsbukta",
+        "newLon": 18.628425,
+        "newLat": 69.5765347,
+        "grades": "1.-7. trinn"
+      }
+    ],
+    "previousSchoolCapacity": "Ingen data",
+    "previousSchoolStudents2023": "18",
+    "previousSchoolStudents2030": "14",
+    "previousSchoolStudents2040": "Ingen data",
+    "previousSchoolStudents2050": "Ingen data",
+    "img_url": "https://tromso.kommune.no/sites/default/files/styles/large_x1_1300_px/public/2024-08/Vikran%20skole.png.webp?itok=cVpthsGX"
+  },
+  {
+    "previousSchool": "Kattfjord",
+    "prevLon": 18.2752378,
+    "prevLat": 69.5818604,
+    "newSchools": [
+      {
+        "newSchool": "Brensholmen",
+        "newLon": 18.048068,
+        "newLat": 69.5986888,
+        "grades": "1.-4. trinn"
+      }
+    ],
+    "previousSchoolCapacity": "Ingen data",
+    "previousSchoolStudents2023": "11",
+    "previousSchoolStudents2030": "8",
+    "previousSchoolStudents2040": "Ingen data",
+    "previousSchoolStudents2050": "Ingen data",
+    "img_url": "https://tromso.kommune.no/sites/default/files/styles/mobile_x1_420px_/public/2024-12/kattfjordskole.jpg.webp?itok=LD9tD2fw"
+  }
+]
